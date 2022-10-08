@@ -2,8 +2,8 @@
 
 .body {
     color:  brown;
-    background-color:  orange;
-    font-size: 100%; 
+    background-color:  orange; 
+    font-size: 100%;  
     text-align: left;
     width: 90%;
     margin: 0 auto;
@@ -24,7 +24,7 @@ a:hover{
     background:  white;
     height: 40px;
     border-radius: 5px;
-    -moz-border-radius:5px;
+    -moz-border-radius: 5px;
     -webkit-border-radius:5px;
 }
 .mainHeader nav ul{
